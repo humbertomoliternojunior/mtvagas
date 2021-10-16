@@ -29,7 +29,7 @@ namespace MT_Vagas.Controllers
         
         {
             Categoria cat = new Categoria();
-            cat.Nome = "TI";
+            cat.Nome = "Teste";
             Emprego obj = new Emprego(cat);
             return obj.NomeCategoria;
 

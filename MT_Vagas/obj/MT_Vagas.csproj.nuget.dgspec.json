@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sonia Trindade\\source\\repos\\MT_Vagas\\MT_Vagas.csproj": {}
+    "C:\\Users\\Sonia Trindade\\mtvagas\\MT_Vagas\\MT_Vagas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sonia Trindade\\source\\repos\\MT_Vagas\\MT_Vagas.csproj": {
+    "C:\\Users\\Sonia Trindade\\mtvagas\\MT_Vagas\\MT_Vagas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sonia Trindade\\source\\repos\\MT_Vagas\\MT_Vagas.csproj",
+        "projectUniqueName": "C:\\Users\\Sonia Trindade\\mtvagas\\MT_Vagas\\MT_Vagas.csproj",
         "projectName": "MT_Vagas",
-        "projectPath": "C:\\Users\\Sonia Trindade\\source\\repos\\MT_Vagas\\MT_Vagas.csproj",
+        "projectPath": "C:\\Users\\Sonia Trindade\\mtvagas\\MT_Vagas\\MT_Vagas.csproj",
         "packagesPath": "C:\\Users\\Sonia Trindade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sonia Trindade\\source\\repos\\MT_Vagas\\obj\\",
+        "outputPath": "C:\\Users\\Sonia Trindade\\mtvagas\\MT_Vagas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sonia Trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",
